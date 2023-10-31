@@ -9,3 +9,7 @@ else:
     while n>0:
         print(n%10,end='')
         n//=10
+
+Output:
+132435
+534231
